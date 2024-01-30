@@ -107,6 +107,7 @@ int main(){
 
     cout << endl <<
      "loan payments complete" <<
+      endl <<
       endl;
 
     return 0;
